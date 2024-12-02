@@ -1,4 +1,4 @@
-﻿using BankAccountNS;
+using BankAccountNS;
 
 internal class Program
 {
