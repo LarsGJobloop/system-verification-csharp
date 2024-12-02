@@ -57,6 +57,15 @@ This repository demonstrates how to set up automated verification for your code 
 
 8. Add more tests to the project.
 
+## Repository Goals
+
+- [x] Provide Unit Testing Examples
+- [ ] Showcase Coverage report generation
+- [ ] Provide Integration Testing Examples
+- [ ] Provide End to End Examples
+- [ ] Provide Architectural Test Examples
+- [ ] Other forms for verification that is important?
+
 ## Terminology
 
 ### Software Development Life Cycle (SDLC) Phases
